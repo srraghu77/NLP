@@ -1,5 +1,5 @@
 # NLP
-This project focuses on the solutioning for different use cases for NLP leveraging GPT3. 
+This project focuses on the solutioning for different use cases for NLP leveraging GPT3. This is a good starting point for NLP beginners. 
 
 Neural network neuron is a mathematical function that takes different inputs with their corresponding weights, calculates an output value that passed through an activation function. Neurons in a neural network are anologous to neurons in the brain. 
 
