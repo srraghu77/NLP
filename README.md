@@ -3,7 +3,7 @@ This project focuses on the solutioning for different use cases for NLP leveragi
 
 Neural network neuron is a mathematical function that takes different inputs with their corresponding weights, calculates an output value that passed through an activation function. Neurons in a neural network are anologous to neurons in the brain. 
 
-Neural networks are made of layers of neuron. Simple one is a neural network with one input layer, one hidden layer and an output layer. 
+Neural networks are made of layers of neuron. Screenshot below is a simple neural network with one input layer, one hidden layer and an output layer. 
 
 ![image](https://user-images.githubusercontent.com/70435753/133885343-ad0f5306-ad25-4abe-b70b-03dd49aa71ea.png)
 
@@ -13,7 +13,11 @@ The weigths in the neural network are initialized randonmly. The backpropogation
 
 Loss is the prediction error in the neural network.  Method used to calulate the loss is called the loss function. This loss is fed back into the neural network as part of the back propogation network. 
 
+In the backpropogation mechanism, we need to calculate the partial derivative of the error with respect to the weights in each layer. To calculate this value, we use the chain rule. Chain rule is a methematical concept used in calculus to calculate partial derivatives. 
 
+              ∂c/∂a = ∂c/∂b . ∂b/∂a
+
+Rate of change of C w.r.t a is equal to rate of change of C w.r.t b multipled by rate of change of b w.r.t a.
 
 
 
