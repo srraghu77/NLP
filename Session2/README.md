@@ -57,7 +57,7 @@ The below screenshot captures a simulated neural network in excel based on formu
 
 Learning rate determines that rate in which the loss value is fed back into model to adjust the weights. Learning rate needs to be optimized. While higher learning rates can help the model learn faster, there are scenarios where the model does not converge faster on account of higher learning rates; sometimes they do not even converge to the minimum loss point. 
 
-Below are the screenshots of the visualization highlighting the rate at which error reduces for different learning rates. We can see that for the neural network in this exercise, the model learns faster when the learning rate increases. 
+Below are the screenshots of the visualization highlighting the rate at which error reduces for different learning rates. We can see that for the neural network in this exercise, the model learns faster (error comes down faster) when the learning rate increases. 
 																														
 ![image](https://user-images.githubusercontent.com/70435753/135512518-35440041-6c99-4d3d-94af-542d749501a1.png)
 												
