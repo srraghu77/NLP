@@ -37,7 +37,7 @@ Loss is the prediction error in the neural network.  Method used to calulate the
 													
 Weights in the neural network are adjusted based on the attribution to the loss on account of the weights (∂E/∂w). Learning rate determines the rate at which the network learns from the loss. Chain rule in mathematics is used to arrive at the ∂E/∂w value for each of the weights. Chain rule is described below.
 
-Chain rule is a methematical concept used in calculus to calculate partial derivatives. 
+Chain rule is a mathematical concept used in calculus to calculate partial derivatives. 
 
               ∂c/∂a = ∂c/∂b . ∂b/∂a
 
